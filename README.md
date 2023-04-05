@@ -16,7 +16,7 @@ Please take a look at my pinned projects! 👩‍💻
 <a href="https://wellfound.com/u/aileen-kim-4" target="_blank">
    <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
 </a>
-<a href="mailto:jihoonchoi.94@gmail.com" target="_blank">
+<a href="mailto:aileenkim96@gmail.com" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
