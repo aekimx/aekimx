@@ -1,10 +1,14 @@
 ## Hi! 👋 My name is Aileen 🤩
 
-I'm a recent graduated full-stack software engineer. I absolutely love taking on challenging projects, learning new languages and technologies, and working with others. When I'm not coding, I'm spending time with my puppy or trying out new restaurants. 
+✨ I'm a full-stack software engineer. I absolutely love taking on challenging projects, learning new languages and technologies, and working with others. 
 
-I would love a position with a supportive and collaborative team culture and the opportunity to work on challengin projects. 💃🏻 🕺🏻
+👩🏻‍🎓 Graduated from New York University and App Academy
 
-Please take a look at my pinned projects! 👩‍💻
+🌼 When I'm not coding, I'm spending time with my puppy or trying out new restaurants. 
+
+💃🏻 🕺 I would love a position with a supportive and collaborative team culture and the opportunity to work on challenging projects. 
+
+👩‍💻 Please take a look at my pinned projects!
 
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aekimx&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
