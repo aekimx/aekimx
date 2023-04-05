@@ -8,7 +8,7 @@
 
 🌼 When I'm not coding, I'm spending time with my puppy or trying out new restaurants. 
 
-💃🏻 I would love a position with a supportive and collaborative team culture and the opportunity to work on challenging projects. 
+💃🏻 I would love to work on a supportive team with a collaborative culture and the opportunity to work on challenging projects. 
 
 👩‍💻 Please take a look at my pinned projects!
 
