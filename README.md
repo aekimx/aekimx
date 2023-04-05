@@ -1,12 +1,14 @@
-## Hi! 👋 My name is Aileen 🤩
+## Welcome to my Github! 🤩 
 
-✨ I'm a full-stack software engineer. I absolutely love taking on challenging projects, learning new languages and technologies, and working with others. 
+🫰 My name is Aileen, or you can call me Ali! 
+
+✨ I'm a full-stack software engineer who loves taking on challenging projects, learning new languages and technologies, and working with others. 
 
 👩🏻‍🎓 Graduated from New York University and App Academy
 
 🌼 When I'm not coding, I'm spending time with my puppy or trying out new restaurants. 
 
-💃🏻 🕺 I would love a position with a supportive and collaborative team culture and the opportunity to work on challenging projects. 
+💃🏻 I would love a position with a supportive and collaborative team culture and the opportunity to work on challenging projects. 
 
 👩‍💻 Please take a look at my pinned projects!
 
