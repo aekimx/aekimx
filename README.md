@@ -13,7 +13,7 @@
 👩‍💻 Please take a look at my pinned projects!
 
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aekimx&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aekimx&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&hide=issues)
  
 ### 📫 Connect with me!
 <a href="https://www.linkedin.com/in/aekimx/" target="_blank" >
