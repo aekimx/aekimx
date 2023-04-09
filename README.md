@@ -6,7 +6,7 @@
 
 👩🏻‍🎓 Graduated from New York University and App Academy
 
-🌼 When I'm not coding, I'm spending time with my puppy or trying out new restaurants. 
+🌼 When I'm not coding, I'm spending time with my puppy or trying out new restaurants with friends. 
 
 💃🏻 I would love to work on a supportive team with a collaborative culture and the opportunity to work on challenging projects. 
 
