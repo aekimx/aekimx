@@ -13,6 +13,10 @@
 👩‍💻 Please take a look at my pinned projects!
 
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aekimx&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <br>
+ 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aekimx&theme=nord&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
  
 ### 📫 Connect with me!
