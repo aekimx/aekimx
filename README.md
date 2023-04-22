@@ -1,4 +1,4 @@
-## Welcome to my Github! 🤩 
+## Welcome to my Github!
 
 🫰 My name is Aileen, or you can call me Ali! 
 
