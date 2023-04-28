@@ -8,6 +8,8 @@
 
 🌼 When I'm not coding, I'm spending time with my puppy or trying out new restaurants with friends. 
 
+🐶 I'm not biased at all but... I think I have the cutest puppy ever!
+
 💃🏻 I would love to work on a supportive team with a collaborative culture and the opportunity to work on challenging projects. 
 
 👩‍💻 Please take a look at my pinned projects!
